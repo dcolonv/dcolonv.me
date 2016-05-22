@@ -1,0 +1,6 @@
+.header_img {
+  width: 100%;
+  min-height: 150px;
+  max-height: 250px;
+  position: relative;
+}

@@ -1,0 +1,12 @@
+.footer {
+  margin-top: -70px;
+  height: 100px;
+  width: 100%;
+  background-color: #0f8d93;
+  text-align: center;
+  p {
+    margin-top: 20px;
+    color: #ffffff;
+    font-style: italic;
+  }
+}
